@@ -135,7 +135,7 @@ const Footer = () => {
           <div className="container">
             <div className="row">
               <div className="col-md-12 text-center">
-                <p>Copyright Company Name © 2021. All rights reserved.</p>
+                <p>Copyright MyHotel © 2021. All rights reserved.</p>
               </div>
             </div>
           </div>
